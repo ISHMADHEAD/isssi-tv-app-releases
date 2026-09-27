@@ -2,6 +2,14 @@
 
 Published builds of the ISSSI TV Android app, and the feed its updater reads.
 
+**Bring your own subscription.** ISSSI TV is a player. It ships with no
+channels, no films and no series: it plays whatever the M3U link or Xtream
+Codes login you give it points at, and nothing else. Getting that source, and
+the right to watch what is on it, is between you and whoever provides it.
+
+The app sends nothing anywhere except to that provider and, to check for a
+newer build, to this page.
+
 The app source is not here; it lives on the developer's machine. This
 repository exists only so an installed copy of the app can find out that a
 newer one has been published.
